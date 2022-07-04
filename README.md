@@ -1,6 +1,6 @@
 # backend-api-covoiturage
 ![logo](https://octodex.github.com/images/bannekat.png)(https://github.com/Hegeldirkk/backend-api-covoiturage/logo/)
-`Mise en place d'une api qui sera consommer par une application mobile de covoiturage et une dashbaord d'administration`
+`Mise en place d'une api qui sera consommé par une application mobile de covoiturage et une dashbaord d'administration`
 
 ### Technologie
 
