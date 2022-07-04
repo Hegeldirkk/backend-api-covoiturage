@@ -6,13 +6,29 @@
 
 - ![logo](https://docs.adonisjs.com/icons/favicon-16x16.png)  [AdonisJs 5](https://adonisjs.com/)
 
-### Installation Project
+### Run Project
+
+##### Nodejs v14
 
 ```
-- en cours
-nodejs
-npm
-etc...
+node -v
+
+```
+
+##### Run Command
+
+`executions en mode dev`
+
+```
+node ace serve --watch
+
+```
+
+`executions en mode Prod`
+
+```
+node ace build --production
+
 ```
 
 ### Developper
@@ -20,7 +36,7 @@ etc...
     * Developper Fullstack (Mobile app)
     * Pentester Senior (CEHv10 | CSCUv2)
 
-### Equipe
+### Team
 | Nom et Prenoms     | Fonction |
 | ------------------ | ----------- |
 | DIKO PHILLIPE      | MANAGER       |
