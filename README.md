@@ -21,12 +21,12 @@ etc...
     * Pentester Senior (CEHv10 | CSCUv2)
 
 ### Equipe
-| Syntax      | Description |
+| Nom et Prenoms     | Fonction |
 | ------------------ | ----------- |
 | DIKO PHILLIPE      | MANAGER       |
 | SADIA DIOMANDE     | POO        |
 | OPPORTUNE KATCHE   | Dev Mobile APP        |
-|[DIABAKATE IKARYRYANN][cv en ligne]|Dev BACKEND|
+|[DIABAKATE IKARY RYANN][cv en ligne]|Dev BACKEND|
 
 ### Version
 
